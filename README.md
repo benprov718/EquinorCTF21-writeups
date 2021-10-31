@@ -16,8 +16,6 @@ Each category has a Category-writeup.md file providing the {solutions,ramblings}
 | Beginner | I think we have a roof leak. | 
 | Beginner | Sanity | 
 | Beginner | baby0 | 
-| Beginner | baby1 | 
-| Beginner | baby2 | 
 | Beginner | never-gonna-exclude-you | 
 | Forensics | sysadmin1 | 
 | ICS | bacnetfingerprint | 
